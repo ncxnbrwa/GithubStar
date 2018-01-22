@@ -1,31 +1,58 @@
 ## 目录
-* TextView
-* EditText
-* ViewPager
-* 高级Layout
-* LayoutManager
-* Menu
-* PopupWindow
-* RecyclerView
-* MaterialDesign控件
-* Toast
-* 进度条
-* Progressbar
-* ImageView
-* Dialog
-* Notification
-* 日历
-* 头部轮播
-* 选择器
-* 侧边栏
-* 时间轴
-* 图表
-* 搜索框
-* 星级评分条
-* 富文本编辑器
-* 键盘
-* Gif
-* 其它
+
+*   TextView
+
+*   EditText
+
+*   ViewPager
+
+*   高级Layout
+
+*   LayoutManager
+
+*   Menu
+
+*   PopupWindow
+
+*   RecyclerView
+
+*   MaterialDesign控件
+
+*   Toast
+
+*   进度条
+
+*   Progressbar
+
+*   ImageView
+
+*   Dialog
+
+*   Notification
+
+*   日历
+
+*   头部轮播
+
+*   选择器
+
+*   侧边栏
+
+*   时间轴
+
+*   图表
+
+*   搜索框
+
+*   星级评分条
+
+*   富文本编辑器
+
+*   键盘
+
+*   Gif
+
+*   其它
 
 ## TextView
 
@@ -33,73 +60,84 @@
 
 > 一个可以让TextView以淡如淡出的形式不断改变自己内容的库。
 
-![FadingTextView_Gif](http://i2.muimg.com/591992/94126ba1a35c9e20.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-cd44725b56d7f5a5.gif?imageMogr2/auto-orient/strip) 
 
 ### [SuperTextView](https://github.com/chenBingX/SuperTextView)
 
 > SuperTextView继承自TextView，它能够大量的减少布局的复杂程度，并且使得一些常见的效果变得十分容易实现且高效。同时，它内置了动画驱动，你只需要合理编写Adjuster，然后startAnim()就可以看到预期的动画效果。它仅仅是一个控件，所以你可以不费吹灰之力的在你的项目中集成使用。
 
-![SuperTextViewScreenshot](http://i2.muimg.com/591992/ee2c808a3b0037fb.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-8bc6fa2a3d516eda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-### [HTextView ](https://github.com/hanks-zyh/HTextView) 
+### [HTextView](https://github.com/hanks-zyh/HTextView)
 
 > TextView的动画效果组件.效果很赞
 
-![HTextView_preview](http://i2.muimg.com/591992/4809adfb5fd1da4c.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-b5bac7d4b1d713db.gif?imageMogr2/auto-orient/strip) 
 
 ### [ParticleTextView](https://github.com/Yasic/ParticleTextView)
 
 > 一个用粒子动画显示文字的 Android 自定义 View
 
-![ParticleTextViewGif](http://i4.buimg.com/591992/f3d66207000e66e2.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-e6f5a477dd8ab17c.gif?imageMogr2/auto-orient/strip) 
 
 ## EditText
 
 ### [PowerfulViewLibrary](https://github.com/chaychan/PowerfulViewLibrary)
 
-> 1. 自带清除文本功能 
-> 2. 自带密码输入框切换明文密文格式的功能  
-> 3. 设置drawableLeft和drawableRight图片大小的功能
+> 1.  自带清除文本功能
+>     
+>     
+> 2.  自带密码输入框切换明文密文格式的功能
+>     
+>     
+> 3.  设置drawableLeft和drawableRight图片大小的功能
 
-![PowerfulViewLibraryScreenshot1](http://i2.muimg.com/591992/18f2cc86812d2ef7.gif)
-![PowerfulViewLibraryScreenshot2](http://i2.muimg.com/591992/df7d1b13d37cdc89.gif)
-![PowerfulViewLibraryScreenshot3](http://i2.muimg.com/591992/58558cb30056ba8c.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-255c763e5047faed.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-59092d3f2ae7fe04.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-5805f127a8e66e2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
 > 对Material Design中的TextInputLayout的加强版，除了原有效果，还在输入行右下角添加了字数，有如下几种定制形式：
->
-> 1. 输入的字数个数(Ascending)
->
-> ![](http://i2.muimg.com/591992/fce86d0ac271e374.gif)
->
-> 2. 剩下的字数，超出字数会变成负数样式(Descending)
->
-> ![Markdown](http://i2.muimg.com/591992/36982bfc0aa7afe5.gif)
->
-> 3. 33/100的形式(Standard)
->
->   ![Markdown](http://i1.piimg.com/591992/2353a775e72ad83c.gif)
->
-> 4. 接近最大限制数字才展示(Display when a given count away from the maximum value)
->
->  ![Markdown](http://i1.piimg.com/591992/6384039e8c198a43.gif)
+> 
+> 1.  输入的字数个数(Ascending)
+>     
+>     
+> 
+> ![image](http://upload-images.jianshu.io/upload_images/4028171-95a6cf87a60a0653.gif?imageMogr2/auto-orient/strip) 
+> 
+> 2.  剩下的字数，超出字数会变成负数样式(Descending)
+>     
+>     
+> 
+> ![image](http://upload-images.jianshu.io/upload_images/4028171-b40120aee72a12a7.gif?imageMogr2/auto-orient/strip) 
+> 
+> 3.  33/100的形式(Standard)
+>     
+>     
+>     
+>     ![image](http://upload-images.jianshu.io/upload_images/4028171-5138be0636ee836a.gif?imageMogr2/auto-orient/strip) 
+>     
+>     
+> 4.  接近最大限制数字才展示(Display when a given count away from the maximum value)
+>     
+>     
+> 
+> ![image](http://upload-images.jianshu.io/upload_images/4028171-5896f52ff3174902.gif?imageMogr2/auto-orient/strip)
 
 ## ViewPager
 
 ### [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards/)
 
-![Markdown](http://i2.fuimg.com/591992/2149ee05e3214cda.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-dc1ab97b3158517f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [BezierViewPager](https://github.com/qdxxxx/BezierViewPager)
 
-![BezierViewPagerScreenshot](http://i1.piimg.com/591992/17ce571a34eb8909.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-9e5a6bef52cc37d2.gif?imageMogr2/auto-orient/strip) 
 
 ### [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)
 
 > 无限循环:viewpage双向取向和互动效果。
 
-![InfiniteCycleViewPagerScreenshot](http://i1.piimg.com/591992/d5f1ce3d41a3a526.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-d7fb02b4d1adb2d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 高级Layout
 
@@ -107,25 +145,23 @@
 
 > FlexboxLayout is a library project which brings the similar capabilities of [CSS Flexible Box Layout Module](https://www.w3.org/TR/css-flexbox-1) to Android.意思是：FlexboxLayout是一个Android平台上与CSS的 Flexible box 布局模块 有相似功能的库。Flexbox 是CSS 的一种布局方案，可以简单、快捷的实现复杂布局。FlexboxLayout可以理解成一个高级版的LinearLayout，因为两个布局都把子view按顺序排列。两者之间最大的差别在于FlexboxLayout具有换行的特性。
 
-![flexbox-layout_screenshot](http://i1.piimg.com/591992/a1e0136a1718f4f0.png)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-199ad97c544f2852.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [vlayout](https://github.com/alibaba/vlayout)
 
 > layout 是手机天猫 Android 版内广泛使用的一个基础 UI 框架项目，提供了一个用于 RecyclerView 的自定义的 LayoutManger，可以实现不同布局格式的混排，目标是支撑客户端 native 页面的快速开发，它也是 Tangram 框架的基础模块。
 
-![tmalldsida](http://i1.piimg.com/591992/af1f61ca15524bb1.gif)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-a11754645947ff15.gif?imageMogr2/auto-orient/strip) 
 
 ### [garland-view-android](https://github.com/Ramotion/garland-view-android)
 
 > 外部是一个水平滚动的视图，视图内的每一个子视图可垂直滚动。
 
-![Markdown](http://i1.cfimg.com/591992/d7ee15211123ea06.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-cf80f30a291eec8d.gif?imageMogr2/auto-orient/strip) 
 
 ### [ExpandableLayout](https://github.com/iammert/ExpandableLayout)
 
-![Markdown](http://i1.cfimg.com/591992/355f9bba5c9b6ba6.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-d5f0a1e716f61839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## LayoutManager
 
@@ -133,26 +169,25 @@
 
 > 一个自定义的LayoutManager -在滚动时淡出和缩小head itemView。
 
-![Markdown](http://i2.cfimg.com/591992/90b9b5e47752f526.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-ec8c1c44de9373e4.gif?imageMogr2/auto-orient/strip) 
 
 ### [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
 
 > 这是一个蜂巢布局管理器，它可以在RecyclerView中实现像蜂巢一样的布局。
 
-![HiveLayoutManager_preview](http://i1.piimg.com/591992/ffb8e79dd9ed91bc.gif)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-ec43ab821eb66033.gif?imageMogr2/auto-orient/strip) 
 
 ### [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 
 > 来自国外一家名为Cleveroad的科技公司的开源作品，因其效果就像风扇扇叶旋转一样，所以名中带Fan。效果不错，API上也有很多的配置参数，用起来还是挺灵活的。
 
-![FanLayoutManager_preview](http://i1.piimg.com/591992/7ba994d3f9baf15a.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-066d81c77eac258c.gif?imageMogr2/auto-orient/strip) 
 
 ### [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
 
 > 一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等
 
-![Markdown](http://i1.piimg.com/591992/83e988d09a9891a5.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-8eccc9d2499d8e98.gif?imageMogr2/auto-orient/strip) 
 
 ## Menu
 
@@ -160,29 +195,27 @@
 
 > 炫爆的菜单
 
-![Markdown](http://i2.fuimg.com/591992/a003521d4010560e.gif)
-![Markdown](http://i2.fuimg.com/591992/a5cee34f9512fc39.gif)
-![Markdown](http://i2.fuimg.com/591992/a874efee4d0f2a13.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-b64aac84276ae1bc.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-967d996eb7303fb6.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-cb5758ece077f66c.gif?imageMogr2/auto-orient/strip) 
 
 ### [CircleMenu](https://github.com/ImangazalievM/CircleMenu)
 
 > 一个漂亮的圆形菜单。
 
-![CircleMenu_gif](http://i1.piimg.com/591992/880592e04755103e.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-9eee98afdf2be0da.gif?imageMogr2/auto-orient/strip) 
 
 ### [TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
 
 > 底部导航栏按钮动画
 
-![TapBarMenu_Gif1](http://i1.piimg.com/591992/d917a0af617d1676.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-bec061f6166b325e.gif?imageMogr2/auto-orient/strip) 
 
-![TapBarMenu_Gif1](http://i1.piimg.com/591992/33d850843f0dd6f0.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-df0a1229359263ee.gif?imageMogr2/auto-orient/strip) 
 
 ### [DropDownMenu](https://github.com/dongjunkun/DropDownMenu)
 
 > 一个实用的多条件筛选菜单
 
-![DropDownMenuGif](http://i1.piimg.com/591992/ea8930596ac2f3a3.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-c987a8ce04368eaa.gif?imageMogr2/auto-orient/strip) 
 
 ## PopupWindow
 
@@ -190,9 +223,9 @@
 
 > 点击弹窗效果，带高斯模糊
 
-![HintPopupWindow_gif](http://i1.piimg.com/591992/6a241ad7fb102c2f.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-f1cffa0638ac452e.gif?imageMogr2/auto-orient/strip) 
 
-###  [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
+### [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
 
 > 对PopupWindow常用API的简单封装，几行代码就搞定PopupWindow弹窗，使用Builder模式，链式调用，像使用AlertDialog 一样
 
@@ -206,25 +239,25 @@
 
 > 分屏滚动,目前提供的功能有：start,end和center三个位置的吸附,snap count指定要分屏的数量，支持水平和垂直分屏，滚动时的回调。
 
-![Markdown](http://i1.cfimg.com/591992/d95442b5234dcd33.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-a15a73b6fe2fc286.gif?imageMogr2/auto-orient/strip) 
 
 ### [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
 
 > 一个可以在加载数据的时候显示闪烁（Shimmer）的RecyclerView。这个RecyclerView内置一个adapter，控制shimmer的外观。
 
-![ShimmerRecyclerView_Gif](http://i1.piimg.com/591992/609017a833d04076.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-86476492ef9873f3.gif?imageMogr2/auto-orient/strip) 
 
 ### [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)
 
 > 用RecyclerView实现的Material横向日历视图。
 
-![HorizontalCalendar_Gif](http://i1.piimg.com/591992/dabe8e517c21e7fc.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-31e8e62d23955558.gif?imageMogr2/auto-orient/strip) 
 
 ### [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 
 > RecyclerView实现的日程表，不仅可以加载历史数据，还能加载新数据。
 
-![excelPanel_Gif](http://i1.piimg.com/591992/1787883a651941db.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-10095ed598c121de.gif?imageMogr2/auto-orient/strip) 
 
 ## MaterialDesign控件
 
@@ -232,40 +265,39 @@
 
 > 灵活的ShadowView，可替代CardView使用
 
-![Markdown](http://i4.cfimg.com/591992/54afdab6a281e4d9.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-74b8a998fe0adb30.gif?imageMogr2/auto-orient/strip) 
 
 ### [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
 
->CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与CoordinatorLayout相结合的样式 继承至CoordinatorLayout, 在该组件下面使用了CollapsingToolbarLayout包含TabLayout.
+> CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与CoordinatorLayout相结合的样式 继承至CoordinatorLayout, 在该组件下面使用了CollapsingToolbarLayout包含TabLayout.
 
-![CoordinatorTabLayout](http://i1.piimg.com/591992/f6913b2877eea8b0.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-d8539f01939a6d6b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [collapsingtoolbarlayout-subtitle](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle)
 
 > Standard CollapsingToolbarLayout with subtitle support.
 
-![collapsingtoolbarlayoutGif](http://i1.piimg.com/591992/459d1b7eecaac9f2.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-cb00cf583d058b2c.gif?imageMogr2/auto-orient/strip) 
 
 ### [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)
 
 > Chips 是 Material Design 中组件，他们被描述为：小却相对复杂的个体，比如联系人。Chip 可以包含一些独立的东西，比如照片、文本、条款、图标或者联系人。MaterialChipsInput 是在 Android 中实现的那个组件。这个库提供了两个视图：ChipsInput 和 ChipView 。
 
-![Markdown](http://i2.muimg.com/591992/757344fa7553ac44.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-cab61818b779c141.gif?imageMogr2/auto-orient/strip) 
 
 ## Toast
 
 ### [StyleableToast](https://github.com/Muddz/StyleableToast)
 
-> 这是另外一个创建自定义Toast的库。
-> 多个自定义选项让你的app和用户体验与众不同！用代码或者styles.xml去定义你的Toast样式。
+> 这是另外一个创建自定义Toast的库。多个自定义选项让你的app和用户体验与众不同！用代码或者styles.xml去定义你的Toast样式。
 
-![StyleableToastScreenshot](http://i1.piimg.com/591992/0fb56ab8e84165b7.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-7b4e9819c531b34c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [Toasty](https://github.com/GrenderG/Toasty)
 
 > 一个创建自定义Toast的库
 
-![Toasty_Preview](http://i1.piimg.com/591992/3cb21b4c7db97d03.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-2a75a21e317a9f75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 进度条
 
@@ -273,13 +305,13 @@
 
 > 带视频截图的进度条
 
-![PreviewSeekBar](http://i1.piimg.com/591992/83f6e1921e7eff7b.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-497a60ef3966145a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [WaveLoading](https://github.com/race604/WaveLoading)
 
 > 波浪加载中动画
 
-![WaveLoading](http://i2.muimg.com/591992/a9d19298f4677de9.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-32cf66fa9641df38.gif?imageMogr2/auto-orient/strip) 
 
 ## Progressbar
 
@@ -287,13 +319,13 @@
 
 > 循环进度条项目让你在android上创建一个循环的progressbar
 
-![Markdown](http://i2.cfimg.com/591992/6fb4870486a9b5c6.jpg)
+![image](http://upload-images.jianshu.io/upload_images/4028171-82725136fe984722.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [ProgressView](https://github.com/WhiteDG/ProgressView)
 
 > ProgressView是一个继承Progressbar的进度视图，目前实现了带数字进度的水平进度条以及圆形进度条，圆形进度条包括三种风格：普通环形进度，内部垂直填充进度以及内部环形填充进度。
 
-![Markdown](http://i1.piimg.com/591992/ef198aba43cb20c3.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-c92109b6c8859769.gif?imageMogr2/auto-orient/strip) 
 
 ## ImageView
 
@@ -301,13 +333,13 @@
 
 > 一个实现图片花式3D翻转效果的自定义View
 
-![](http://i2.muimg.com/591992/b52b2f27226632d1.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-88bc93209c888a87.gif?imageMogr2/auto-orient/strip) 
 
 ### [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
 > A circular ImageView for Android
 
-![CircleImageView](http://i2.muimg.com/591992/3f676867cad6c221.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-6bf6b6110ac3d2ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## Dialog
 
@@ -315,14 +347,13 @@
 
 > material风格(v7支持包中的)，ios风格，自动获取顶层activity,可在任意界面弹出,可在任意线程弹出
 
-![DialogUtil_ProgressDialog](http://i2.muimg.com/591992/e00bea7bf63e43fb.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-4e3da96ae93559ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-![DialogUtilAlertDialog](http://i2.muimg.com/591992/1d54dd7f606e541b.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-fbf43d418a6ceb67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-![DialogUtilSingleChoice](http://i2.muimg.com/591992/1cb611dd28e13863.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-14c9d569aeac6542.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-![DialogUtilMultipleChoice](http://i2.muimg.com/591992/1dc4ca62185fd2a3.png)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-8f60ccdb6412fb2e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## Notification
 
@@ -330,7 +361,7 @@
 
 > api链式调用,摆脱原生的难用的api.封装了常用的通知模式.
 
-![NotifyUtilScreenshot](http://i2.muimg.com/591992/1ba4c00a35ab9384.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-4b50bd2ec645b42e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 日历
 
@@ -338,18 +369,13 @@
 
 > 是具有改进UI的自定义日期范围选择器
 
-![Markdown](http://i4.cfimg.com/591992/f5bd77c50b95e70e.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-0dd960b8b94d64af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [CosmoCalendar](https://github.com/AppliKeySolutions/CosmoCalendar)
 
-> 这是一个可以自定义日历的库，它可以提供很多功能和UI设置，例如：
-> 改变日历方向；
-> 自定义文本颜色；
-> 设置类型和颜色；
-> 定义导航按钮等；
-> 还有很多其他功能；
+> 这是一个可以自定义日历的库，它可以提供很多功能和UI设置，例如：改变日历方向；自定义文本颜色；设置类型和颜色；定义导航按钮等；还有很多其他功能；
 
-![Markdown](http://i4.cfimg.com/591992/a4e52c3c140f7e87.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-dfbf56ab8b6d2f06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 头部轮播
 
@@ -357,16 +383,11 @@
 
 > 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
 
-
-
 ### [banner](https://github.com/youth5201314/banner)
 
 > Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 
-![banner_screenshot1](http://i2.muimg.com/591992/431a0cae3a3b9eff.png)
-![banner_screenshot2](http://i2.muimg.com/591992/07e134d1adb0480a.png)
-![banner_screenshot3](http://i2.muimg.com/591992/b7cdbd660631ead8.png)
-![banner_screenshot4](http://i2.muimg.com/591992/c416a1dec6d06ffe.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-f9129d6b8ca1e023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-97a617ae9c414eb7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-467895c58db7a9af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-2ca0039b2c4f8724.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 
@@ -378,14 +399,13 @@
 
 > color picker for android
 
-![Markdown](http://i4.fuimg.com/591992/b32810c39841b73e.png)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-be4482bd472c4ba0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 
 > A Material design back port of Android's CalendarView. The goal is to have a Material look and feel, rather than 100% parity with the platform's implementation.
 
-![Markdown](http://i1.fuimg.com/591992/e94552d9f34b600b.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-06bffa02161e3637.gif?imageMogr2/auto-orient/strip) 
 
 ## 侧边栏
 
@@ -393,27 +413,27 @@
 
 > 帮助快速查阅对应分组的侧边栏
 
-![Android_QuickSideBarGif](http://i2.muimg.com/591992/991269cef23474b5.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-25e6a8eac95009c0.gif?imageMogr2/auto-orient/strip) 
 
 ### [WaveSideBar](https://github.com/gjiazhe/WaveSideBar)
 
 > 带海浪效果的侧边栏
 
-![WaveSideBarGif](http://i2.muimg.com/591992/c9f2989764e19cc7.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-61a7b54b2bd17f6f.gif?imageMogr2/auto-orient/strip) 
 
 ### [Android-SnappingStepper](https://github.com/saiwu-bigkoo/Android-SnappingStepper)
 
-> 一种漂亮的UI控件，能更灵活的控制数字的增减。 
+> 一种漂亮的UI控件，能更灵活的控制数字的增减。
 
-![Android-SnappingStepperGif](http://i2.muimg.com/591992/41b779c21e753043.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-4062062ba5cc3357.gif?imageMogr2/auto-orient/strip) 
 
 ### [MeiTuanLocateCity](https://github.com/yangxu4536/MeiTuanLocateCity)
 
 > 仿美团城市选择界面，可直接用在实际项目中
 
-![MeiTuanLocateCityScreenshot1](http://i2.muimg.com/591992/af9206eac4fb18de.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-760845c378e9e2fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-![MeiTuanLocateCityScreenshot2](http://i2.muimg.com/591992/4daab668dc0f81c1.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-ef65f65954fb94aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 时间轴
 
@@ -421,45 +441,31 @@
 
 > 时间轴效果
 
-![Markdown](http://i1.ciimg.com/591992/d53ddc89811a581d.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-d4c2eb264838a8f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [MaterialStepperView](https://github.com/fython/MaterialStepperView)
 
-![Markdown](http://i2.fuimg.com/591992/d2ed71a7ed535c53.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-eb0e030e37efe4de.gif?imageMogr2/auto-orient/strip) 
 
 ## 图表
+
 ### [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 > 使用简单，但功能强大，而且支持Realm，兼容Android 2.2及以上版本，一直保持Android图表开源控件里面的一哥地位。
 
-![Markdown](http://i2.tiimg.com/591992/d9c952a0487a19f5.png)
-![Markdown](http://i2.tiimg.com/591992/6751c0dcea30466e.png)
-![Markdown](http://i2.tiimg.com/591992/c1008eb535296f88.png)
-![Markdown](http://i2.tiimg.com/591992/3f8f108a3b40d4a5.png)
-![Markdown](http://i2.tiimg.com/591992/fdd440f7e47a9a65.png)
-![Markdown](http://i2.tiimg.com/591992/1f676f80444dc138.png)
-![Markdown](http://i2.tiimg.com/591992/c792d1a09da66d8c.png)
-![Markdown](http://i2.tiimg.com/591992/0a29f422ef77570c.png)
-![Markdown](http://i2.tiimg.com/591992/41b2bc32ecc38a73.png)
-![Markdown](http://i2.tiimg.com/591992/6a092b20d51aae3d.png)
-![Markdown](http://i2.tiimg.com/591992/204f2058fe81a9db.png)
-![Markdown](http://i2.tiimg.com/591992/bfafe585e877a310.png)
-![Markdown](http://i2.tiimg.com/591992/e0728c11df2dfa36.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-b166aa3f03af0a8a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-4e6ddcd72835c7ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-8d54c9667025f838.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-5dcb5859a77b7f5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-9a566607e19f3990.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-31214c199c784973.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-df3fc391e70f7ed8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-001908419baf2976.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-aa1578de5a7e4fac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-8ed18ff16f43ea91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-ae5bcb0f4acabbde.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-161f7fd001f7f53a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-fab421448e0b373d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [hellocharts-android](https://github.com/lecho/hellocharts-android)
 
 > 最低兼容Android 2.2，开启已经硬件加速后效果会更好，作者更推荐在Android 4.0以上的平台使用。
 
-![Markdown](http://i2.tiimg.com/591992/bf57f113abe96acc.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-0f60f6689cb622b6.gif?imageMogr2/auto-orient/strip) 
 
 ### [WilliamChart](https://github.com/diogobernardino/WilliamChart)
 
 > 最低兼容Android 4.0，作者不仅仅是想实现一个图表功能的控件，他更希望能够优雅直观的效果来为用户展示可视化数据。
 
-![Markdown](http://i2.tiimg.com/591992/2c5e0f6f5e946e55.gif)
-![Markdown](http://i2.tiimg.com/591992/768fd5623bb635f8.gif)
-![Markdown](http://i2.tiimg.com/591992/8ccc415f5b9d1482.gif)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-00bc28b8c326ab2d.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-7440247ae31afd9a.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-a9ce3461f9af17c0.gif?imageMogr2/auto-orient/strip) 
 
 ## 搜索框
 
@@ -467,8 +473,7 @@
 
 > MD设计风格的搜索框
 
-![Markdown](http://i1.fuimg.com/591992/888779208063a9e2.gif)
-![Markdown](http://i1.fuimg.com/591992/eabb25163d56bb2e.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-db904a7dce9c072f.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-a9912d9a09e33b52.gif?imageMogr2/auto-orient/strip) 
 
 ## 星级评分条
 
@@ -476,16 +481,15 @@
 
 > 这个库允许在应用程序中使用定制的评级对话框。
 
-![Markdown](http://i2.cfimg.com/591992/11d0bb94743974fd.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-24de8e3ed7526695.gif?imageMogr2/auto-orient/strip) 
 
 ## 富文本编辑器
 
 ### [MRichEditor](https://github.com/Even201314/MRichEditor)
 
-> 这是一个丰富的文本编辑器（基于summernote）。
-它支持多种功能，包括粗体、斜体、下划线、快捷键、标题（包括六级标题）、段落、引用，有（无）序列表、代码、水平规则、链接、图像，对齐方式（居中、两端对齐、左对齐、右对齐）、下标、上标、字体名称和大小、缩进、减少缩进、撤消/还原。
+> 这是一个丰富的文本编辑器（基于summernote）。它支持多种功能，包括粗体、斜体、下划线、快捷键、标题（包括六级标题）、段落、引用，有（无）序列表、代码、水平规则、链接、图像，对齐方式（居中、两端对齐、左对齐、右对齐）、下标、上标、字体名称和大小、缩进、减少缩进、撤消/还原。
 
-![Markdown](http://i2.cfimg.com/591992/3f362e70e06991e1.png)
+![image](http://upload-images.jianshu.io/upload_images/4028171-52463327e0068590.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 键盘
 
@@ -493,7 +497,7 @@
 
 > 高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘
 
-![Markdown](http://i2.cfimg.com/591992/7c28d502eff0707d.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-265acf5b73584c93.gif?imageMogr2/auto-orient/strip) 
 
 ## Gif
 
@@ -501,8 +505,7 @@
 
 > 支持gif图片的Load反馈框架，只需一张gif图，一行代码解决初次加载，重试加载，刷新加载，与生命周期绑定，LeakCanary检测无内存泄漏
 
-![Markdown](http://i2.fuimg.com/591992/bdcdb6c6b5d57e11.gif)
-![Markdown](http://i2.fuimg.com/591992/bf25ec7b4dfc4c11.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-7adea0526ce42211.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-868137553efd1a7a.gif?imageMogr2/auto-orient/strip) 
 
 ## 其它
 
@@ -510,41 +513,38 @@
 
 > 谷歌启动器风格的开关图标
 
-![Markdown](http://i2.muimg.com/591992/a90df54671848ad6.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-dc502f0c369b27f0.gif?imageMogr2/auto-orient/strip) 
 
 ### [GADownloading](https://github.com/Ajian-studio/GADownloading)
 
 > 一个绚丽的下载进度条
 
-![](http://i2.muimg.com/591992/9f859685de623719.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-47e4641ff868fe62.gif?imageMogr2/auto-orient/strip) 
 
 ### [EmojiRain](https://github.com/Luolc/EmojiRain)
 
 > Implement a simple and funny Android animation —— the emoji rain in WeChat app.
 
-![EmojiRain_Gif](http://i2.muimg.com/591992/622e21af6e401077.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-1ba433b4f29d00d0.gif?imageMogr2/auto-orient/strip) 
 
 ### [Swipecards](https://github.com/Diolor/Swipecards)
 
 > 卡片滑动的效果
 
-![Markdown](http://i2.muimg.com/591992/81113a6d4e90e123.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-b6d5c97280f51c32.gif?imageMogr2/auto-orient/strip) 
 
 ### [Alerter](https://github.com/Tapadoo/Alerter)
 
 > 小而美的通知效果
 
-![Markdown](http://i2.muimg.com/591992/6cfdea9a2f47f33e.gif)
+![image](http://upload-images.jianshu.io/upload_images/4028171-880a5306eb3f6458.gif?imageMogr2/auto-orient/strip) 
 
 ### [RippleEffect](https://github.com/traex/RippleEffect)
 
 > Implementation of Ripple effect from Material Design for Android API 9+
 
-![RippleEffectGif](http://i2.muimg.com/591992/0a4c580e15225c96.gif)
-
+![image](http://upload-images.jianshu.io/upload_images/4028171-ba3e0bc44b34cb6a.gif?imageMogr2/auto-orient/strip) 
 
 ### [CouponView](https://github.com/dongjunkun/CouponView)
 
 > 半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合
-
-![CouponViewScreenshot](http://i2.muimg.com/591992/04171d068d1e8148.png)
