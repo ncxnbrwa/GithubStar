@@ -85,11 +85,9 @@
 ### [PowerfulViewLibrary](https://github.com/chaychan/PowerfulViewLibrary)
 
 > 1.  自带清除文本功能
->     
->     
+>
 > 2.  自带密码输入框切换明文密文格式的功能
->     
->     
+>
 > 3.  设置drawableLeft和drawableRight图片大小的功能
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-255c763e5047faed.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-59092d3f2ae7fe04.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-5805f127a8e66e2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -97,30 +95,29 @@
 ### [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
 > 对Material Design中的TextInputLayout的加强版，除了原有效果，还在输入行右下角添加了字数，有如下几种定制形式：
-> 
+>
 > 1.  输入的字数个数(Ascending)
->     
->     
-> 
+>
+>       
+>
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-95a6cf87a60a0653.gif?imageMogr2/auto-orient/strip) 
-> 
+>
 > 2.  剩下的字数，超出字数会变成负数样式(Descending)
->     
->     
-> 
+>
+>       
+>
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-b40120aee72a12a7.gif?imageMogr2/auto-orient/strip) 
-> 
+>
 > 3.  33/100的形式(Standard)
->     
->     
->     
+>
+>       
+>
 >     ![image](http://upload-images.jianshu.io/upload_images/4028171-5138be0636ee836a.gif?imageMogr2/auto-orient/strip) 
->     
->     
+>
 > 4.  接近最大限制数字才展示(Display when a given count away from the maximum value)
->     
->     
-> 
+>
+>       
+>
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-5896f52ff3174902.gif?imageMogr2/auto-orient/strip)
 
 ## ViewPager
@@ -140,6 +137,12 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-d7fb02b4d1adb2d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 高级Layout
+
+### [ExpansionPanel](https://github.com/florent37/ExpansionPanel)
+
+> 这是另外一个来自于 [Florent Champigny](https://medium.com/@florentchampigny) 的很棒的库。它给我提供了 [Expansion Panels](https://material.io/guidelines/components/expansion-panels.html)（其中包含了创建流程，且让我们可以轻量化的编辑一个元素）的一种实现。
+
+![ExpansionPanel_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-63c0860e4ac10362.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### [flexbox-layout](https://github.com/google/flexbox-layout)
 
@@ -287,6 +290,12 @@
 
 ## Toast
 
+### [FancyToast-Android](https://github.com/Shashank02051997/FancyToast-Android)
+
+> 这个库使用了原生的 Android Toasts Fancy。它将标准的 Android Toast 带到了一个新的级别，使其拥有大量的样式选项。它也提供了使用代码来控制 Toast 样式的能力。
+
+![FancyToast-Android_Screenshot.png](http://upload-images.jianshu.io/upload_images/4028171-62bf93366aa3e4f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### [StyleableToast](https://github.com/Muddz/StyleableToast)
 
 > 这是另外一个创建自定义Toast的库。多个自定义选项让你的app和用户体验与众不同！用代码或者styles.xml去定义你的Toast样式。
@@ -364,6 +373,13 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-4b50bd2ec645b42e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 日历
+
+### [CalendarPicker](https://github.com/maxyou/CalendarPicker)
+
+> 这个库是另一个日历和日期选择器。它可以预设一个选定的日期，并可以深度定制 - 你可以自定义几乎所有的文字大小和颜色、背景颜色和月份标题。
+
+![CalendarPicker_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-97e10b06cf420cf6.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### [DateRangePicker](https://github.com/savvisingh/DateRangePicker)
 
@@ -508,6 +524,11 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-7adea0526ce42211.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-868137553efd1a7a.gif?imageMogr2/auto-orient/strip) 
 
 ## 其它
+
+### [TicketView](https://github.com/vipulasri/TicketView)
+
+> 实现电影票样式的自定义View
+
 
 ### [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
 

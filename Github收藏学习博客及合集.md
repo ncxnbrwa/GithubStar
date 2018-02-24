@@ -12,6 +12,13 @@
 
 ## 学习项目
 
+### [FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger)
+
+> 该库使用一种强大的方法来管理 Fragment。其目标是使得 Fragment 易于使用，并将管理它们的成本最小化。
+
+![FragmentTriggerScreenshot.png](http://upload-images.jianshu.io/upload_images/4028171-268b39605873298b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ### [SeatTable](https://github.com/qifengdeqingchen/SeatTable)
 
 > 电影票在线选座demo

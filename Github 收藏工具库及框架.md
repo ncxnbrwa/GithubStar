@@ -52,8 +52,6 @@
 
 *   item侧滑
 
-*   动画库
-
 *   广告活动弹窗
 
 *   其它
@@ -263,36 +261,6 @@
 > Skin是一款提供在Android开发中实现动态快速切换皮肤的库。kin提供两种换肤方式：前缀属性和标记属性。 前缀属性：只需将需要换肤的属性统一以固定的前缀开始命名即可；eg. skin_login_btn_bg.png。 标记属性：在布局文件中进行命名空间申明，并为需要进行皮肤切换的控件设置属性标记。 这两种方式都支持属性后缀切换，也就是在同一套皮肤中（可以是插件皮肤），可以提供不同后缀结尾的属性来达到快速的皮肤切换。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-709111cd8ba4607d.gif?imageMogr2/auto-orient/strip) 
-
-## 动画相关
-
-### [Persei.android](https://github.com/android-cjj/Persei.android)
-
-> Yalantis公司出品的开源库，动画这块做的非常漂亮
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-91875469cb59e2e2.gif?imageMogr2/auto-orient/strip) 
-
-### [lottie-android](https://github.com/airbnb/lottie-android)
-
-> 一款添加酷炫动画的开源库，支持 Adobe After Effects生成的动画文件。
-
-### [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
-
-> RecylerView项的添加删除动画
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-9ce8365ad4c5dfd2.gif?imageMogr2/auto-orient/strip) 
-
-### [ViewAnimator](https://github.com/florent37/ViewAnimator)
-
-> 一个液态的动画库
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-d5a62c8f9bedbe97.gif?imageMogr2/auto-orient/strip) 
-
-### [spruce-android](https://github.com/willowtreeapps/spruce-android)
-
-> Spruce 是一个轻量级的动画库，可以帮助排版屏幕上的动画。使用有很多不同的动画库时，开发人员和程序员需要确保每个视图都能够在适当的时间活动。 Spruce 可以帮助设计师获得复杂的多视图动画，而不是让开发人员在原型阶段就感到畏惧。
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-490178ecf26ad840.gif?imageMogr2/auto-orient/strip) 
 
 ## 二维码
 
@@ -540,6 +508,10 @@
 
 ## 下载框架
 
+### [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
+
+>  这是一个为 Android 提供的支持断点续传的文件下载器。
+
 ### [FileDownloader](https://github.com/lingochamp/FileDownloader)
 
 > 专注于文件下载,各种高级特性.适用于对文件下载业务要求较高的项目
@@ -572,6 +544,42 @@
 
 ## 动画库
 
+### []()
+
+### [transitioner](https://github.com/dev-labs-bg/transitioner)
+
+>  ansitioner 是一个为两个拥有嵌入子视图的视图之间提供简便、动态且可调整的动画效果的库。它纯 100% 使用 Kotlin 编写而成，使用 MIT 许可，且拥有良好的文档。
+
+![transitionerGif.gif](http://upload-images.jianshu.io/upload_images/4028171-784d6cb008a66307.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### [Persei.android](https://github.com/android-cjj/Persei.android)
+
+> Yalantis公司出品的开源库，动画这块做的非常漂亮
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-91875469cb59e2e2.gif?imageMogr2/auto-orient/strip) 
+
+### [lottie-android](https://github.com/airbnb/lottie-android)
+
+> 一款添加酷炫动画的开源库，支持 Adobe After Effects生成的动画文件。
+
+### [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
+
+> RecylerView项的添加删除动画
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-9ce8365ad4c5dfd2.gif?imageMogr2/auto-orient/strip) 
+
+### [ViewAnimator](https://github.com/florent37/ViewAnimator)
+
+> 一个液态的动画库
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-d5a62c8f9bedbe97.gif?imageMogr2/auto-orient/strip) 
+
+### [spruce-android](https://github.com/willowtreeapps/spruce-android)
+
+> Spruce 是一个轻量级的动画库，可以帮助排版屏幕上的动画。使用有很多不同的动画库时，开发人员和程序员需要确保每个视图都能够在适当的时间活动。 Spruce 可以帮助设计师获得复杂的多视图动画，而不是让开发人员在原型阶段就感到畏惧。
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-490178ecf26ad840.gif?imageMogr2/auto-orient/strip) 
+
 ### [Material-Animations](https://github.com/lgvalle/Material-Animations)
 
 > 也是一个老牌且全面的动画库，你可以从中看到各式各样的动画交互效果，包括Activity/Fragment转场动画、共享元素、以及Circular Reveal（揭露动画）等。
@@ -587,6 +595,34 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-cdfe5d2418c43c46.gif?imageMogr2/auto-orient/strip) 
 
 ## 其它
+
+### [WindowImageView](https://github.com/Bleoo/WindowImageView)
+
+> 这是一个非常有趣的库，可以用来在 RecyclerView 中展示 ImageView，它就像一个窗口。下面的 gif 图片可以显示其直观的效果。
+
+![WindowImageView_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-64fab5ae23bf76a7.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### [FloatWindow](https://github.com/yhaolpz/FloatWindow)
+
+> 这个库可用于添加一个“悬浮窗口”，可以显示在所有 Activity 的最前方。“悬浮窗口”可以定义为悬浮动作按钮。
+
+![FloatWindow_slide.gif](http://upload-images.jianshu.io/upload_images/4028171-e616dfbb292030ac.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### [netty](https://github.com/netty/netty)
+
+> Netty是一个异步的事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端。貌似可以进行长连接
+
+### [SmartTable](https://github.com/huangyanbin/smartTable)
+
+> 一款android自动生成表格框架
+
+![seat.jpg](http://upload-images.jianshu.io/upload_images/4028171-283c6e9bbe97f83a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![progress.jpg](http://upload-images.jianshu.io/upload_images/4028171-46ea17e9bc5a2f27.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![old_excel.png](http://upload-images.jianshu.io/upload_images/4028171-b413a40ebef99136.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### [JsBridge](https://github.com/lzyzsd/JsBridge)
 

@@ -1,3 +1,10 @@
+### [Musicoco](https://github.com/DuanJiaNing/Musicoco)
+
+> 这是个管理本地音乐的app，目前关注人不多，但是这确实是个非常棒的作品，大家可以安装体验哈。
+> UI设计、动效以及功能完善程度都很棒，其次因为很多项目的数据都是抓的官方接口所以很容易就失效了，相对而言这个app就不会出现这样的情况，可以慢慢学习~
+
+![Image_020.png](http://upload-images.jianshu.io/upload_images/4028171-c5653795c423f054.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### [AndroidReview](https://github.com/envyfan/AndroidReview)
 
 > 一款面向Android开发者的一款面试复习App
@@ -697,4 +704,5 @@
 ### [LeafPic](https://github.com/HoraApps/LeafPic)
 
 > 一款开源的关于实现视频和相册的APP。LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, we also have in plan to add some useful feature.
+
 
