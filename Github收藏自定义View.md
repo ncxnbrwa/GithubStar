@@ -30,11 +30,9 @@
 
 *   Notification
 
-*   日历
-
 *   头部轮播
 
-*   选择器
+*   选择器(包括日历,时间,颜色,省市等)
 
 *   侧边栏
 
@@ -85,9 +83,11 @@
 ### [PowerfulViewLibrary](https://github.com/chaychan/PowerfulViewLibrary)
 
 > 1.  自带清除文本功能
->
+>     
+>     
 > 2.  自带密码输入框切换明文密文格式的功能
->
+>     
+>     
 > 3.  设置drawableLeft和drawableRight图片大小的功能
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-255c763e5047faed.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-59092d3f2ae7fe04.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-5805f127a8e66e2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -95,29 +95,30 @@
 ### [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
 > 对Material Design中的TextInputLayout的加强版，除了原有效果，还在输入行右下角添加了字数，有如下几种定制形式：
->
+> 
 > 1.  输入的字数个数(Ascending)
->
->       
->
+>     
+>     
+> 
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-95a6cf87a60a0653.gif?imageMogr2/auto-orient/strip) 
->
+> 
 > 2.  剩下的字数，超出字数会变成负数样式(Descending)
->
->       
->
+>     
+>     
+> 
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-b40120aee72a12a7.gif?imageMogr2/auto-orient/strip) 
->
+> 
 > 3.  33/100的形式(Standard)
->
->       
->
+>     
+>     
+>     
 >     ![image](http://upload-images.jianshu.io/upload_images/4028171-5138be0636ee836a.gif?imageMogr2/auto-orient/strip) 
->
+>     
+>     
 > 4.  接近最大限制数字才展示(Display when a given count away from the maximum value)
->
->       
->
+>     
+>     
+> 
 > ![image](http://upload-images.jianshu.io/upload_images/4028171-5896f52ff3174902.gif?imageMogr2/auto-orient/strip)
 
 ## ViewPager
@@ -167,6 +168,23 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-d5f0a1e716f61839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## LayoutManager
+
+### [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
+
+>  (自定义LayoutManager合集)
+
+![LayoutManagerGroupimg1.gif](https://upload-images.jianshu.io/upload_images/4028171-6d87aea66ecc73bc.gif?imageMogr2/auto-orient/strip)
+
+![LayoutManagerGroupimg2.gif](https://upload-images.jianshu.io/upload_images/4028171-8bebc0b407178f52.gif?imageMogr2/auto-orient/strip)
+
+![LayoutManagerGroupimg3.gif](https://upload-images.jianshu.io/upload_images/4028171-3002c983fe26740d.gif?imageMogr2/auto-orient/strip)
+
+![LayoutManagerGroupimg4.gif](https://upload-images.jianshu.io/upload_images/4028171-159b3fb202cdec76.gif?imageMogr2/auto-orient/strip)
+
+![LayoutManagerGroupimg5.gif](https://upload-images.jianshu.io/upload_images/4028171-e7d928b4176eacdd.gif?imageMogr2/auto-orient/strip)
+
+![LayoutManagerGroupimg6.gif](https://upload-images.jianshu.io/upload_images/4028171-d4fed74c099f1b48.gif?imageMogr2/auto-orient/strip)
+
 
 ## [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)
 
@@ -338,6 +356,12 @@
 
 ## ImageView
 
+### [ShapeView](https://github.com/xwc520/ShapeView)
+
+>  可以使任何一个View or layout展示出不同形状，并且代替重复创建不同shape文件。其实是自定义View
+
+![ShapeViewScreenshot.png](http://upload-images.jianshu.io/upload_images/4028171-f247ad4befc76d4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### [Roll3DImageView](https://github.com/zhangyuChen1991/Roll3DImageView)
 
 > 一个实现图片花式3D翻转效果的自定义View
@@ -372,28 +396,20 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-4b50bd2ec645b42e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-## 日历
-
-### [CalendarPicker](https://github.com/maxyou/CalendarPicker)
-
-> 这个库是另一个日历和日期选择器。它可以预设一个选定的日期，并可以深度定制 - 你可以自定义几乎所有的文字大小和颜色、背景颜色和月份标题。
-
-![CalendarPicker_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-97e10b06cf420cf6.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-### [DateRangePicker](https://github.com/savvisingh/DateRangePicker)
-
-> 是具有改进UI的自定义日期范围选择器
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-0dd960b8b94d64af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-
-### [CosmoCalendar](https://github.com/AppliKeySolutions/CosmoCalendar)
-
-> 这是一个可以自定义日历的库，它可以提供很多功能和UI设置，例如：改变日历方向；自定义文本颜色；设置类型和颜色；定义导航按钮等；还有很多其他功能；
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-dfbf56ab8b6d2f06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 头部轮播
+
+### [MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)
+
+> 仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
+
+![MZBannerViewGif.gif](https://upload-images.jianshu.io/upload_images/4028171-64689d1d05c01351.gif?imageMogr2/auto-orient/strip)
+
+
+### [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
+
+![68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f64756f6c696e676f5f7669657770616765722e676966.gif](https://upload-images.jianshu.io/upload_images/4028171-54a73cbd9d6280d3.gif?imageMogr2/auto-orient/strip)
+
 
 ### [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)
 
@@ -409,7 +425,57 @@
 
 > Simple and convenient banner, loop viewpager with 3D effects
 
-## 选择器
+## 选择器(包括日历,时间,颜色,省市等)
+
+### [CalendarExaple](https://github.com/codbking/CalendarExaple)
+
+> android高仿钉钉和小米的自定义日历控件（支持阴历和阳历，左右无限翻页viewpager）
+
+![CalendarExapleGif.gif](https://upload-images.jianshu.io/upload_images/4028171-51fadab12e4578c1.gif?imageMogr2/auto-orient/strip)
+
+
+### [citypicker](https://github.com/crazyandcoder/citypicker)
+
+> citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，一级或者三级列表展示方式
+
+![citypicker_screent03.png](https://upload-images.jianshu.io/upload_images/4028171-6bd69972e9197f75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![citypicker_screent02.png](https://upload-images.jianshu.io/upload_images/4028171-cf740e4e7def2c8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![citypicker_screent01.png](https://upload-images.jianshu.io/upload_images/4028171-5e57a91296e8daef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### [NestedCalendar](https://github.com/SouthernBox/NestedCalendar)
+
+> 利用自定义behavior写的非常平滑的日历
+
+![NestedCalendarGif.gif](https://upload-images.jianshu.io/upload_images/4028171-aa6fb37108d663ef.gif?imageMogr2/auto-orient/strip)
+
+### [pickerview](https://github.com/jaaksi/pickerview)
+
+> 一个非常好用的Android PickerView库，内部提供3种常用类型的Picker。支持扩展自定义Picker。就是UI有点丑
++ TimePicker：时间选择器，包含日期
++ MixedTimePicker:：聚合的时间选择器
++ OptionPicker：联动选择器
+
+
+### [CalendarPicker](https://github.com/maxyou/CalendarPicker)
+
+> 这个库是另一个日历和日期选择器。它可以预设一个选定的日期，并可以深度定制 - 你可以自定义几乎所有的文字大小和颜色、背景颜色和月份标题。
+
+![CalendarPicker_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-97e10b06cf420cf6.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### [DateRangePicker](https://github.com/savvisingh/DateRangePicker)
+
+> 是具有改进UI的自定义日期范围选择器
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-0dd960b8b94d64af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+### [CosmoCalendar](https://github.com/AppliKeySolutions/CosmoCalendar)
+
+> 这是一个可以自定义日历的库，它可以提供很多功能和UI设置，例如：改变日历方向；自定义文本颜色；设置类型和颜色；定义导航按钮等；还有很多其他功能；
+
+![image](http://upload-images.jianshu.io/upload_images/4028171-dfbf56ab8b6d2f06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [Color Picker](https://github.com/QuadFlask/colorpicker)
 
@@ -569,3 +635,4 @@
 ### [CouponView](https://github.com/dongjunkun/CouponView)
 
 > 半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合
+

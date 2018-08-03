@@ -1,7 +1,24 @@
+### [z_comic_new](https://github.com/zhhr1122/z_comic_new)
+
+> 一款采用MVP模式的设计的仿造腾讯漫画的APP
+
+![1.png](https://upload-images.jianshu.io/upload_images/4028171-afd3a1c553f254cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### [SuiYue](https://github.com/LRH1993/SuiYue)
+
+> 一款基于douban及ONE API开发的资讯类的开源项目。项目采取的是okhttp + MVP架构开发。
+
+![suiyuescreenshot03.png](https://upload-images.jianshu.io/upload_images/4028171-e3c2a0721cbb6527.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![suiyuescreenshot02.png](https://upload-images.jianshu.io/upload_images/4028171-ea894b8ac1b4d8f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![suiyuescreenshot01.png](https://upload-images.jianshu.io/upload_images/4028171-d421cc8cf6876da4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### [Musicoco](https://github.com/DuanJiaNing/Musicoco)
 
 > 这是个管理本地音乐的app，目前关注人不多，但是这确实是个非常棒的作品，大家可以安装体验哈。
-> UI设计、动效以及功能完善程度都很棒，其次因为很多项目的数据都是抓的官方接口所以很容易就失效了，相对而言这个app就不会出现这样的情况，可以慢慢学习~
+UI设计、动效以及功能完善程度都很棒，其次因为很多项目的数据都是抓的官方接口所以很容易就失效了，相对而言这个app就不会出现这样的情况，可以慢慢学习~
 
 ![Image_020.png](http://upload-images.jianshu.io/upload_images/4028171-c5653795c423f054.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -126,12 +143,6 @@
 > 一个数据存储使用的 Leancloud、架构采用 MVP 的记账本 APP。（目前正在不断完善中）
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-772102daadf58a23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-39251a3d9e3a1276.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-59fe413e8a7b1a39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-
-### [TodayNews](https://github.com/yewei02538/TodayNews)
-
-> 一个仿今日头条的开源项目，是基于MVP+RxJava+Retrofit
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-5d62ccb378d84a22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-089bdb58a9d0fbaf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-f2f882446046a0de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [Tucao](https://github.com/blackbbc/Tucao)
 
@@ -422,27 +433,37 @@
 ### [MyMVPDemo](https://github.com/xu649526275/MyMVPDemo)
 
 > 16年学习mvp写的小demo，逻辑简单，便于理解，帮助刚接触mvp+rxjava的人。
->
+> 
 > *   [leakcanary](https://github.com/square/leakcanary) ：检测应用内存泄漏问题，这个都知道吧
->
+>     
+>     
 > *   [butterknife](https://github.com/JakeWharton/butterknife) ：帮助Android控件和回调的进行依赖注入，JakeWharton大神的力作
->
+>     
+>     
 > *   [rxjava](https://github.com/ReactiveX/RxJava) ：一个实现异步操作的库，现在非常火
->
+>     
+>     
 > *   [RxAndroid](https://github.com/ReactiveX/RxAndroid) ：用于Android的Rxjava绑定库
->
+>     
+>     
 > *   [EventBus](https://github.com/greenrobot/EventBus) ：订阅事件总线
->
+>     
+>     
 > *   [retrofit](https://github.com/square/retrofit) ：目前最好用的网络通讯库，应该都用过吧
->
+>     
+>     
 > *   [okhttp](https://github.com/square/okhttp) ：okhttp和retrofit做网络通讯是绝配
->
+>     
+>     
 > *   [glide](https://github.com/bumptech/glide) ：Google出品的图片加载库，这里有非常好的指导文档：[https://mrfu.me/2016/02/27/Glide_Getting_Started/](https://mrfu.me/2016/02/27/Glide_Getting_Started/)
->
+>     
+>     
 > *   [PhotoView](https://github.com/chrisbanes/PhotoView) ：可根据手势进行缩放的图像库，这个也很常见
->
+>     
+>     
 > *   [gson](https://github.com/google/gson) ：帮助Json和Object转换，这个也常用
->
+>     
+>     
 > *   [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) :非常强大的下拉刷新
 
 ### [GracefulMovies](https://github.com/woxingxiao/GracefulMovies)
@@ -472,19 +493,25 @@
 ### [Douya](https://github.com/DreaminginCodeZH/Douya)
 
 > 另一个 Material Design 的豆瓣客户端。特性：
->
+> 
 > *   Material Design
->
+>     
+>     
 > *   首页友邻广播
->
+>     
+>     
 > *   启动速度优化
->
+>     
+>     
 > *   支持屏幕旋转
->
+>     
+>     
 > *   平板多列试图
->
+>     
+>     
 > *   支持使用 Custom Tabs 打开网页
->
+>     
+>     
 > *   支持切换长/短链接显示
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-5d0d59cc02b79d43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -498,13 +525,16 @@
 ### [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)
 
 > 高仿bilibili项目,目前完善以下功能：
->
+> 
 > *   启动页的业务逻辑
->
+>     
+>     
 > *   带有阻力效果的轮播图
->
+>     
+>     
 > *   直播、推荐、番剧界面的搭建
->
+>     
+>     
 > *   集成基于ijkplayer的视频播放器（普通视频、直播视频）
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-55fed179fbfa7a76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -512,39 +542,39 @@
 ### [remusic](https://github.com/aa112901/remusic)
 
 > 仿网易云音乐安卓版客户端涉及技术：
->
+> 
 > *   Timber
->
->       
->
+>     
+>     
+> 
 > *   Fresco
->
->       
->
+>     
+>     
+> 
 > *   MediaPlayerProxy
->
->       
->
+>     
+>     
+> 
 > *   Android-ObservableScrollView
->
->       
->
+>     
+>     
+> 
 > *   retrofit
->
->       
->
+>     
+>     
+> 
 > *   ImitateNetEasyCloud
->
->       
->
+>     
+>     
+> 
 > *   okhttp
->
->       
->
+>     
+>     
+> 
 > *   CustomLrcView
->
->       
->
+>     
+>     
+> 
 > *   MagicaSakura
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-ad41c5641082f43c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -552,7 +582,7 @@
 ### [MvpApp](https://github.com/Rukey7/MvpApp)
 
 > 练习MVP架构开发的App，算是对自己学过的知识做一个总结，做了有一段时间，界面比较多，代码量还是有的，里面做了大量封装，整体代码整理得很干净.
->
+> 
 > MVP+Dagger2+Rxjava+Retrofit+GreenDao
 
 ### [Daily](https://github.com/spring2613/Daily)
@@ -564,7 +594,7 @@
 ### [Pedometer](https://github.com/j4velin/Pedometer)
 
 > 一个简单，轻量的计步器app，使用硬件传感器计算步数，而且对电池的消耗非常小。
->
+> 
 > 对学习计步功能而言是不错的项目，但是编码规范和设计还不够好。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-4b5768a8657ce716.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -572,7 +602,7 @@
 ### [Turbo Editor](https://github.com/vmihalachi/turbo-editor)
 
 > 一个简单但是强大的文字编辑应用。你还可以用这个app来写代码，支持不同语言的语法高亮。
->
+> 
 > 绝大多数应用在打开大型文本文件的时候都会失败或者崩溃，这个app却很好的处理了这个问题。从这个项目中你有机会学到如何实现一个健壮的文本（或者代码）编辑app。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-7b8e0b96cc0aef85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -580,7 +610,7 @@
 ### [Travel Mate](https://github.com/Swati4star/Travel-Mate)
 
 > 如果你要找一个旅途类，对地图和位置依赖很强的应用，那么这个项目可能是最佳的选择。
->
+> 
 > app的设计和代码质量都算不上很规范，但是整个app还是非常好，对初学者而言（甚至中级开发者）可以学到很多东西。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-2d9c81c48bc47f59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -588,7 +618,7 @@
 ### [Super Clean Master](https://github.com/joyoyao/superCleanMaster)
 
 > 如果你用过一个安卓设备，你一定曾有过清理设备中垃圾数据的需求。Clean Master就是这类应用中最受欢迎的应用之一。
->
+> 
 > 这个app，就如其名称那样，试图用干净优雅的方式模仿Clean Master的大多数功能。但是整个项目比较复杂，可能会花一些时间才能理解。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-1b364be4748a14d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -602,9 +632,9 @@
 ### [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 
 > 如果你想找一个Evernote那样的，功能全面的笔记类应用，那么这个项目就正好适合你。
->
+> 
 > 这个项目非常大，有许多功能比如分享，搜索，附加图片，视频，音频，在笔记中涂鸦，添加提醒等。
->
+> 
 > 另一个非常酷的事情是你可以从这个项目中学到如何在app中无缝集成Google Now。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-e22ce0bb7f8858b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -612,7 +642,7 @@
 ### [CoCoin](https://github.com/Nightonke/CoCoin)
 
 > CoCoin是一个功能完善的个人财物与机长工具，UI简单干净。
->
+> 
 > 如果你想学习如何桥党的管理较多的用户数据，为这些数据绘制漂亮的统计图，制作漂亮的自定义视图，那么这个开源项目就非常适合你。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-3d5a44e7e4d44f6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -626,7 +656,7 @@
 ### [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor)
 
 > 如果你想学习安卓进程，内存，CPU等系统管理方面的知识，这是一个不错的项目。
->
+> 
 > 项目很简单，也很好理解，不过其代码风格，架构以及整体设计不值得模仿。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-0eb9124c3b76db4e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -634,7 +664,7 @@
 ### [Timber](https://github.com/naman14/Timber)
 
 > Timber是一个设计漂亮，功能完善的音乐播放器。如果你曾想过开发自己的音乐app或者跟音乐相关的app，那么这个项目可以一看。
->
+> 
 > 这个项目很大，而且还在积极的开发中。对于初学者可能有点困难，不过对于中级开发者来说应该是非常有意思的。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-1cb9281dd61ceb70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -642,7 +672,7 @@
 ### [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
 
 > 如果你是一个新手，这是一个简单但很酷的项目。你将有机会学到安卓开发的绝大多数基础知识。
->
+> 
 > 这个app设计得很好，作为初学者的起点再合适不过了。但是不要借鉴它的代码风和包结构的设计，因为它们不符合标准并且应该尽量避免。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-4f44b092166cc755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-77a6d4dd4d180817.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![image](http://upload-images.jianshu.io/upload_images/4028171-3915f933448f1b95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -650,7 +680,7 @@
 ### [AnExplorer](https://github.com/1hakr/AnExplorer)
 
 > 又是一个简单的，轻量的文件管理器，为手机和平板而设计。
->
+> 
 > 从这个项目中可以学到文件处理，root管理，loaders，自定义view等。做的非常好，不用花费多长时间就能了解代码里面做了什么。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-13cd63f0c6d2c5f1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -658,9 +688,9 @@
 ### [MovieGuide](https://github.com/esoxjem/MovieGuide)
 
 > 这个app的目的很简单，就是列出流行的电影以及它们的预告和影评。但是让这个项目有趣的东西是它实现的方式。
->
+> 
 > 这个app演示了一些很酷的开发方式，比如MVP，Uncle Bob的Clean Architecture，RxJava以及Dagger 2。
->
+> 
 > 这个app很简单但是实现的方式很棒。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-7042ddf2d0ce57fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -668,9 +698,9 @@
 ### [PhotoAffix](https://github.com/afollestad/photo-affix)
 
 > 一个非常简单，设计简约的app，用来垂直或者水平拼接图片。
->
+> 
 > 对于想学习安卓开发基础知识的新手这是一个理想的资源。编码风格是顶级的。
->
+> 
 > 你还会学会制作简单但实用的自定义view，帮助你打好基础，以便今后创建一些真正复杂的视图。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-473eb71b9660de28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -678,7 +708,7 @@
 ### [MLManager](https://github.com/javiersantos/MLManager)
 
 > MLManager是一个简单的app管理器。如果你想学习如何得到安装在设备中的app的详细信息，那么这个app对你而言是个理想的选择。
->
+> 
 > 这个app的编码风格非常好，值得借鉴。它还有助于你理解如何设计一个遵循Material Design规范的app。
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-ae516c79249994c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 

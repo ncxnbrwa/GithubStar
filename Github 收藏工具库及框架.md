@@ -54,6 +54,12 @@
 
 *   广告活动弹窗
 
+*  推流直播库
+
+*  音乐播放
+
+*  fragment
+
 *   其它
 
 ## 图片操作库
@@ -63,12 +69,6 @@
 > 不只是图片,文档也能选择
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-51a1a53cf0efaf84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-
-### [phoenix](https://github.com/guoxiaoxing/phoenix?utm_source=androidweekly.cn&utm_medium=website)
-
-> 图片/视频的选择，编辑和压缩是日常开发中的常见需求，Phoenix完整的实现了这些功能，并提供了优雅的调用方式。Phoenix的核心功能基于Kotlin实现，外层接口基于Java实现，方便Kotlin与Java双方的调用。
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-30ba6e6d9b07ac98.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-057d32d9e6310de9.gif?imageMogr2/auto-orient/strip) 
 
 ### [SmartCropper](https://github.com/pqpo/SmartCropper)
 
@@ -88,13 +88,6 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-af2f5d65d9b072c3.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-89af44c4a4de7f68.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-edbc136672bbfeb6.gif?imageMogr2/auto-orient/strip) 
 
-### [PickPhotoSample](https://github.com/Werb/PickPhotoSample)
-
-> 图片选择器
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-b649fad261163387.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-2712d8a072ba8daa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ### [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
@@ -113,18 +106,6 @@
 ### [Luban](https://github.com/Curzibn/Luban)
 
 > Luban，也称鲁班。该库作者一针见血的提出当前图片压缩处理的一些问题：单纯对图片进行裁切，压缩已经有很多文章介绍。但是裁切成多少，压缩成多少却很难控制好，裁切过头图片太小，质量压缩过头则显示效果太差。所以，他通过微信朋友圈发送近100张不同分辨率图片，对比原图与微信压缩后的图片逆向推算出来的压缩算法，具体的算法实现在项目中有详细说明介绍。使用上，支持普通调用方式外，也支持RxJava！
-
-### [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
-
-> 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-62a8b608c651941b.gif?imageMogr2/auto-orient/strip) ![image](http://upload-images.jianshu.io/upload_images/4028171-f54d8cb2b5d7b69d.gif?imageMogr2/auto-orient/strip) 
-
-### [ImageShowPicker](https://github.com/yaozs/ImageShowPicker)
-
-> 单纯的上传图片展示控件
-
-![image](http://upload-images.jianshu.io/upload_images/4028171-d6acebfe4a0afac4.gif?imageMogr2/auto-orient/strip) 
 
 ### [Matisse](https://github.com/zhihu/Matisse)
 
@@ -181,13 +162,17 @@
 ### [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android)
 
 > *   微博底部tab显示最新微博条数
->
+>     
+>     
 > *   微博列表用户头像显示显示右下角vip徽章
->
+>     
+>     
 > *   微信消息界面用户新消息
->
+>     
+>     
 > *   微信消息界面订阅号新消息
->
+>     
+>     
 > *   拖拽删除徽章
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-5157f90a302c923f.gif?imageMogr2/auto-orient/strip) 
@@ -209,15 +194,19 @@
 ### [boxing](https://github.com/Bilibili/boxing)
 
 > Boxing是一个基于MVP模式的Android多媒体选择器
->
+> 
 > *   支持自定义UI
->
+>     
+>     
 > *   支持多/单图片选择和预览，单图裁剪功能
->
+>     
+>     
 > *   支持gif
->
+>     
+>     
 > *   支持视频选择功能
->
+>     
+>     
 > *   提供图片压缩
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-0bce8c22538a4b55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
@@ -445,7 +434,7 @@
 ### [kotlin](https://github.com/JetBrains/kotlin)
 
 > Kotlin 是一个基于 JVM 的新的编程语言，由 [JetBrains](http://baike.baidu.com/item/JetBrains) 开发。
->
+> 
 > Kotlin可以编译成Java字节码，也可以编译成JavaScript，方便在没有JVM的设备上运行。
 
 ## 检测工具
@@ -467,6 +456,12 @@
 ![image](http://upload-images.jianshu.io/upload_images/4028171-f26be02c1006068f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## Tab指示器
+
+### [Dachshund-Tab-Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
+
+> 扩展的Android选项卡布局，带有持续反馈的动画指示器。
+
+![DachshundGif](https://upload-images.jianshu.io/upload_images/4028171-1fb83cc4f5994fb6.gif?imageMogr2/auto-orient/strip)
 
 ### [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
 
@@ -515,17 +510,22 @@
 ### [FileDownloader](https://github.com/lingochamp/FileDownloader)
 
 > 专注于文件下载,各种高级特性.适用于对文件下载业务要求较高的项目
->
+> 
 > *   简单易用
->
+>     
+>     
 > *   单任务多线程/多连接/分块下载(并支持通过ConnectionCountAdapter定制)
->
+>     
+>     
 > *   高并发
->
+>     
+>     
 > *   灵活
->
+>     
+>     
 > *   可选择性支持: 独立/非独立进程
->
+>     
+>     
 > *   自动断点续传
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-b4d1b30878262a7e.gif?imageMogr2/auto-orient/strip) 
@@ -594,7 +594,44 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-cdfe5d2418c43c46.gif?imageMogr2/auto-orient/strip) 
 
+## 推流直播库
+
+### [WSLiveDemo](https://github.com/WangShuo1143368701/WSLiveDemo)
+
+>  音视频，直播SDK，rtmp推流，录制视频，滤镜。百万用户，线上迭代半年，已经稳定。
+
+### **[librestreaming](https://github.com/lakeinchina/librestreaming)**
+
+> 安卓实时滤镜RTMP推流库
+
+### **[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)**
+
+## 音乐播放
+
+### [MusicLibrary](https://github.com/lizixian18/MusicLibrary)
+
+> 一个丰富的音乐播放封装库。
+
+## fragment
+
+### [AndroidNavigation](https://github.com/listenzz/AndroidNavigation)
+
+> + 一行代码实现 Fragment 嵌套，一次性构建好嵌套层级
+> + 一行代码实现 Fragment 跳转，不再需要写一大堆操作 fragment 的代码了，不用担心用错 FragmentManager 了
+> + 一行代码开关沉浸式状态栏，兼容到 Android 4.4 并解决了相关 BUG
+> + 自动为你创建 Toolbar，一行代码设置标题、按钮，支持关闭自动创建功能以实现定制
+> + 一处设置全局样式，到处使用，并且支持不同页面个性化
+支持 font icons
+
+
 ## 其它
+
+### [StatusLayoutManager](https://github.com/Bakumon/StatusLayoutManager)
+
+> 切换不同的数据状态布局，包含加载中、空数据和出错状态，可自定义状态布局。
+
+![status_layout_manager.gif](https://upload-images.jianshu.io/upload_images/4028171-11461e87b0e67a30.gif?imageMogr2/auto-orient/strip)
+
 
 ### [WindowImageView](https://github.com/Bleoo/WindowImageView)
 
@@ -602,6 +639,7 @@
 
 ![WindowImageView_Gif.gif](http://upload-images.jianshu.io/upload_images/4028171-64fab5ae23bf76a7.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+> 大牛直播SDK，跨平台(windows/android/iOS)推送(rtmp)、直播播放器(rtmp/rtsp)，支持录像、导播、转发、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(通常1秒左右，低延迟模式下200~400ms)。
 
 ### [FloatWindow](https://github.com/yhaolpz/FloatWindow)
 
@@ -671,3 +709,5 @@
 > 应用自动静默更新安装库.
 
 ![image](http://upload-images.jianshu.io/upload_images/4028171-c9f6954a3a1b5197.gif?imageMogr2/auto-orient/strip)
+
+

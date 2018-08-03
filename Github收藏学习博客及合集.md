@@ -1,16 +1,66 @@
 ## 目录
 
-*   学习博客
+*   学习项目
 
-*   控件合集
+*  开发工具
 
-*   开放API
+*  控件合集
 
-*   Demo学习
+*  开放API
 
-*   装逼学习网站
+*  Demo学习
+
+*  装逼学习网站
 
 ## 学习项目
+
+### [InterviewMap](https://github.com/InterviewMap/InterviewMap)
+
+> 前端面试知识图谱,也包括一些计算机通用知识,可参考
+
+### [blog_backups](https://github.com/crazyandcoder/blog_backups)
+
+> Android 项目优化、面试题集，包含Android、Java、数据结构、算法、个人blog备份等。 
+
+### [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+
+> android sdk 源码解析——旨在帮助Android开发者更好的学习Android！
+
+
+### [android_interview](https://github.com/LRH1993/android_interview)
+
+> Android校招面试指南
+
+### [interview](https://github.com/HIT-Alibaba/interview)
+
+> 笔试面试知识整理
+
+### [awesome-android-tips](https://github.com/jiang111/awesome-android-tips)
+
+> 这里收集了大家常用的一些Android代码,持续更新中,内容来自自己的平时积累和网络上看到的文章，部分原文地址在最下方
+
+
+### [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
+
+> github上的面试宝典包括算法，操作系统，网络，面向对象，数据库，java，分布式，工具等等，因有尽有，全部都是中文的！
+
+### [Android知识体系总结博客](https://fashare2015.github.io/2018/04/24/android-skill-tree[android]/)
+
+### [jarslink](https://github.com/alibaba/jarslink)
+
+> 阿里的模块化开发框架
+
+![jarslink_screenshot](https://upload-images.jianshu.io/upload_images/4028171-b999fea3625e99cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### [VirtualXposed](https://github.com/android-hacker/VirtualXposed)
+
+> **VirtualXposed** 是基于[VirtualApp](https://github.com/asLody/VirtualApp) 和 [epic](https://github.com/tiann/epic) 在**非ROOT**环境下运行Xposed模块的实现（支持5.0~8.1)。
+
+
+### [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis)
+
+> Android 7.0 源码分析项目,有很多源码详细分析文章
 
 ### [FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger)
 
@@ -39,7 +89,7 @@
 
 ### [StudyForAndroid](https://github.com/nanchen2251/StudyForAndroid)
 
-> 🔥 Study + Android + 学习资源 + 百科全书 + 持续更新干货
+>  Study + Android + 学习资源 + 百科全书 + 持续更新干货
 
 ### [learn-regex](https://github.com/zeeshanu/learn-regex)
 
@@ -97,7 +147,27 @@
 
 > Android AutofillFramework的使用例子，有Kotlin版本
 
+## 开发工具
+
+### [android-hidden-api](https://github.com/anggrayudi/android-hidden-api)
+
+> 一个提供对Android隐藏api和内部资源的访问的库。
+
+### [marktext](https://github.com/marktext/marktext)
+
+> marktext是下一代的markdown编辑器，最大的特点是不需要切换预览模式查看效果(用过markdown的同学都知道这种痛苦)。你可以随写随览，即写过的markdown都会变成相应的模式，其中还提供但不限于日夜间模式，3种编辑模式。最重要的是支持全平台！不论是windown，mac，还是linux都可以轻松安装
+
+### [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+
+> 影梭翻墙软件
+
+### [lantern](https://github.com/getlantern/lantern)
+
+> 蓝灯翻墙工具
+
 ## 控件合集
+
+### [安卓开源控件库收藏](https://www.jianshu.com/p/f450d034b201)
 
 ### [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 
@@ -139,184 +209,6 @@
 
 > 安卓UI相关开源项目库汇总
 
-*   抽屉菜单
-
-*   ListView
-
-*   WebView
-
-*   SwitchButton
-
-*   按钮
-
-*   点赞按钮
-
-*   进度条
-
-*   TabLayout
-
-*   图标
-
-*   下拉刷新
-
-*   ViewPager
-
-*   图表(Chart)
-
-*   菜单(Menu)
-
-*   浮动菜单
-
-*   对话框
-
-*   空白页
-
-*   滑动删除
-
-*   手势操作
-
-*   RecyclerView
-
-*   Card
-
-*   Color
-
-*   Drawable
-
-*   Spinner
-
-*   布局
-
-*   模糊效果
-
-*   TabBar
-
-*   AppBar
-
-*   选择器(Picker)
-
-*   跑马灯
-
-*   日历时间
-
-*   主题样式
-
-*   ImageView
-
-*   通知
-
-*   聊天视图
-
-*   Header
-
-*   引导图(Intro)
-
-*   图片
-
-*   徽章(Badge)
-
-*   RatingView
-
-*   滚动效果(Scroll)
-
-*   时间轴
-
-*   TreeView
-
-*   SearchView
-
-*   TagView
-
-*   TextView
-
-*   EditText
-
-*   Sliding
-
-*   表单
-
-*   分段控件
-
-*   轮播图
-
-*   文件操作
-
-*   启动页
-
-*   MD
-
-*   BottomNavigation
-
-*   Toast
-
-*   CreditCard
-
-*   ActionSheet
-
-*   Wave
-
-*   Snackbar
-
-*   用户引导
-
-*   Popup
-
-*   滑动返回
-
-*   TV组件
-
-*   软键盘
-
-*   状态栏
-
-*   StepView
-
-*   表格(Table)
-
-*   滚动视差(Parallex)
-
-*   SideBar
-
-*   关于页面
-
-*   详情页
-
-*   FAB
-
-*   Indicator
-
-*   分享组件
-
-*   升级更新
-
-*   Toolbar
-
-*   Sort&Drag
-
-*   Emoji
-
-*   Label
-
-*   WheelView
-
-*   PinCode
-
-*   CoordinatorLayout
-
-*   页面切换
-
-*   悬浮窗
-
-*   地图
-
-*   编辑器
-
-*   SeekBar
-
-*   DownloadView
-
-*   其他
-
 ### [QMUI_Android](https://github.com/QMUI/QMUI_Android?utm_source=androidweekly.cn&utm_medium=website)
 
 > QMUI Android 的设计目的是用于辅助快速搭建一个具备基本设计还原效果的 Android 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。 相当于各大控件合集
@@ -330,6 +222,10 @@
 > 这个项目就可以帮助大家折腾出一些小项目出来，比如你是 Android 也好、iOS 也好、Web 开发也好，这个项目提供各种开放的 api 供你使用，不用担心数据哪里来，比如音乐、阅读、新闻等，很大很全，不过基本都是国外的.
 
 ## Demo学习
+
+### **[HighPerformanceFriendsCircle](https://github.com/KCrason/HighPerformanceFriendsCircle)**
+
+> 高仿微信朋友圈Demo
 
 ### [Three360panorama](https://github.com/CN-ZPH/Three360panorama)
 
